@@ -28,6 +28,25 @@ Toda afirmação carrega um campo `evidencia`
 (`pratica_docente` · `literatura` · `saeb` · `inferido`).
 O critério de cada tipo de aresta está em [METODOLOGIA.md](METODOLOGIA.md).
 
+### Regra de extração — verificação cruzada obrigatória
+
+Vale para esta e para todas as fases seguintes (razão, proporção,
+porcentagem e o que vier depois).
+
+O recorte de habilidades é feito **pela unidade temática**, nunca por
+busca textual. A busca da API é literal: não normaliza plural nem
+flexão, de modo que `fração` e `frações` devolvem conjuntos diferentes
+e quase disjuntos. Confiar em um termo perde parte da cadeia em
+silêncio — e silêncio é o pior modo de errar aqui.
+
+Toda extração roda em seguida uma **verificação cruzada** por múltiplos
+termos e reporta o que aparece **fora** da unidade temática recortada,
+em `dados/bruto/fora-do-recorte.json`. Cada item dessa lista é
+inspecionado à mão antes de entrar ou ficar de fora do grafo, e a
+decisão é registrada.
+
+Nenhum recorte é aceito sem essa conferência.
+
 ## Autoria
 
 Reinaldo Elias — professor, Pará, Brasil.
