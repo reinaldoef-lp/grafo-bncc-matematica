@@ -7,19 +7,31 @@ Salva dois arquivos em dados/bruto/:
   numeros-6-9.json  recorte da unidade temática "Números"
 
 A resposta da API é gravada sem alteração. A cadeia de números racionais
-fracionários vive dentro de "Números"; a busca textual por "fração"
-devolve apenas 3 habilidades e perde o resto da cadeia.
+fracionários vive dentro de "Números", e o recorte é feito pela unidade
+temática — não por busca textual.
+
+Motivo, verificado em 19/07/2026: a busca da API é literal, sem stemming.
+"fração" devolve EF06MA09, EF07MA09, EF08MA05; "frações" devolve outras
+duas (EF06MA07, EF07MA08), sem repetir nenhuma; "fracion" devolve mais
+cinco. Confiar em um único termo perde parte da cadeia em silêncio.
+
+Para não trocar um recorte frágil por outro, a extração roda também uma
+verificação cruzada: busca vários termos e reporta o que aparece FORA da
+unidade temática, para inspeção manual.
 
 Uso: python3 scripts/extrair.py
 """
 
 import json
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
 API = "https://api.bncc.dev/v1/habilidades"
+BUSCA = "https://api.bncc.dev/v1/busca"
 ANOS = [6, 7, 8, 9]
 UNIDADE = "Números"
+TERMOS = ["fração", "frações", "fracion", "racionais", "decimal", "porcentagem"]
 DESTINO = Path(__file__).resolve().parent.parent / "dados" / "bruto"
 
 
@@ -27,6 +39,13 @@ def buscar(ano):
     url = f"{API}?etapa=EF&componente=MA&ano={ano}&limite=100"
     with urllib.request.urlopen(url, timeout=30) as r:
         return json.load(r)
+
+
+def buscar_termo(termo, ano):
+    q = urllib.parse.quote(termo)
+    url = f"{BUSCA}?q={q}&etapa=EF&componente=MA&ano={ano}&limite=50"
+    with urllib.request.urlopen(url, timeout=30) as r:
+        return json.load(r)["itens"]
 
 
 def unidade_de(item):
@@ -55,6 +74,31 @@ def main():
 
     print(f"\ntotal: {len(todas)} habilidades")
     print(f'unidade "{UNIDADE}": {len(numeros)}')
+
+    # Verificação cruzada: o que os termos encontram fora da unidade temática
+    dentro = {i["codigo"] for i in numeros}
+    fora = {}
+    for termo in TERMOS:
+        for ano in ANOS:
+            for item in buscar_termo(termo, ano):
+                cod = item["codigo"]
+                if cod not in dentro:
+                    fora.setdefault(cod, {
+                        "codigo": cod,
+                        "unidade_tematica": unidade_de(item),
+                        "texto": item["texto"],
+                        "termos": [],
+                    })["termos"].append(termo)
+
+    (DESTINO / "fora-do-recorte.json").write_text(
+        json.dumps(sorted(fora.values(), key=lambda x: x["codigo"]),
+                   ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    print(f"\nfora do recorte, encontradas por termo: {len(fora)}")
+    for v in sorted(fora.values(), key=lambda x: x["codigo"]):
+        print(f'  {v["codigo"]} [{v["unidade_tematica"]}] via {v["termos"]}')
 
 
 if __name__ == "__main__":
