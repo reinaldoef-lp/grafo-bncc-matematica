@@ -1,0 +1,1286 @@
+[
+  {
+    "codigo": "EF06MA01",
+    "etapa": "EF",
+    "texto": "Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 130",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-sistema-de-numeracao-decimal-caracteristicas-leitura-escrita-e-comparacao-de-numeros-naturais-e-de-numeros-racionais-representados-na-forma-decimal",
+        "nome": "Sistema de numeração decimal: características, leitura, escrita e comparação de números naturais e de números racionais representados na forma decimal"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA02",
+    "etapa": "EF",
+    "texto": "Reconhecer o sistema de numeração decimal, como o que prevaleceu no mundo ocidental, e destacar semelhanças e diferenças com outros sistemas, de modo a sistematizar suas principais características (base, valor posicional e função do zero), utilizando, inclusive, a composição e decomposição de números naturais e números racionais em sua representação decimal.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 131",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-sistema-de-numeracao-decimal-caracteristicas-leitura-escrita-e-comparacao-de-numeros-naturais-e-de-numeros-racionais-representados-na-forma-decimal",
+        "nome": "Sistema de numeração decimal: características, leitura, escrita e comparação de números naturais e de números racionais representados na forma decimal"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA03",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com e sem uso de calculadora.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 132",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-operacoes-adicao-subtracao-multiplicacao-divisao-e-potenciacao-com-numeros-naturais",
+        "nome": "Operações (adição, subtração, multiplicação, divisão e potenciação) com números naturais"
+      },
+      {
+        "id": "ef-comp-ma-oc-divisao-euclidiana",
+        "nome": "Divisão euclidiana"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA04",
+    "etapa": "EF",
+    "texto": "Construir algoritmo em linguagem natural e representá-lo por fluxograma que indique a resolução de um problema simples (por exemplo, se um número natural qualquer é par).",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 133",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fluxograma-para-determinar-a-paridade-de-um-numero-natural",
+        "nome": "Fluxograma para determinar a paridade de um número natural"
+      },
+      {
+        "id": "ef-comp-ma-oc-multiplos-e-divisores-de-um-numero-natural-numeros-primos-e-compostos",
+        "nome": "Múltiplos e divisores de um número natural Números primos e compostos"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA05",
+    "etapa": "EF",
+    "texto": "Classificar números naturais em primos e compostos, estabelecer relações entre números, expressas pelos termos “é múltiplo de”, “é divisor de”, “é fator de”, e estabelecer, por meio de investigações, critérios de divisibilidade por 2, 3, 4, 5, 6, 8, 9, 10, 100 e 1000.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 134",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fluxograma-para-determinar-a-paridade-de-um-numero-natural",
+        "nome": "Fluxograma para determinar a paridade de um número natural"
+      },
+      {
+        "id": "ef-comp-ma-oc-multiplos-e-divisores-de-um-numero-natural-numeros-primos-e-compostos",
+        "nome": "Múltiplos e divisores de um número natural Números primos e compostos"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA06",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam as ideias de múltiplo e de divisor.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 135",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fluxograma-para-determinar-a-paridade-de-um-numero-natural",
+        "nome": "Fluxograma para determinar a paridade de um número natural"
+      },
+      {
+        "id": "ef-comp-ma-oc-multiplos-e-divisores-de-um-numero-natural-numeros-primos-e-compostos",
+        "nome": "Múltiplos e divisores de um número natural Números primos e compostos"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA07",
+    "etapa": "EF",
+    "texto": "Compreender, comparar e ordenar frações associadas às ideias de partes de inteiros e resultado de divisão, identificando frações equivalentes.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 136",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracoes-significados-parte-todo-quociente-equivalencia-comparacao-adicao-e-subtracao-calculo-da-fracao-de-um-numero-natural-adicao-e-subtracao-de-fracoes",
+        "nome": "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA08",
+    "etapa": "EF",
+    "texto": "Reconhecer que os números racionais positivos podem ser expressos nas formas fracionária e decimal, estabelecer relações entre essas representações, passando de uma representação para outra, e relacioná-los a pontos na reta numérica.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 137",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracoes-significados-parte-todo-quociente-equivalencia-comparacao-adicao-e-subtracao-calculo-da-fracao-de-um-numero-natural-adicao-e-subtracao-de-fracoes",
+        "nome": "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA09",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam o cálculo da fração de uma quantidade e cujo resultado seja um número natural, com e sem uso de calculadora.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 138",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracoes-significados-parte-todo-quociente-equivalencia-comparacao-adicao-e-subtracao-calculo-da-fracao-de-um-numero-natural-adicao-e-subtracao-de-fracoes",
+        "nome": "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA10",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam adição ou subtração com números racionais positivos na representação fracionária.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 139",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracoes-significados-parte-todo-quociente-equivalencia-comparacao-adicao-e-subtracao-calculo-da-fracao-de-um-numero-natural-adicao-e-subtracao-de-fracoes",
+        "nome": "Frações: significados (parte/todo, quociente), equivalência, comparação, adição e subtração; cálculo da fração de um número natural; adição e subtração de frações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA11",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas com números racionais positivos na representação decimal, envolvendo as quatro operações fundamentais e a potenciação, por meio de estratégias diversas, utilizando estimativas e arredondamentos para verificar a razoabilidade de respostas, com e sem uso de calculadora.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 140",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-operacoes-adicao-subtracao-multiplicacao-divisao-e-potenciacao-com-numeros-racionais",
+        "nome": "Operações (adição, subtração, multiplicação, divisão e potenciação) com números racionais"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA12",
+    "etapa": "EF",
+    "texto": "Fazer estimativas de quantidades e aproximar números para múltiplos da potência de 10 mais próxima.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 141",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-aproximacao-de-numeros-para-multiplos-de-potencias-de-10",
+        "nome": "Aproximação de números para múltiplos de potências de 10"
+      }
+    ]
+  },
+  {
+    "codigo": "EF06MA13",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam porcentagens, com base na ideia de proporcionalidade, sem fazer uso da “regra de três”, utilizando estratégias pessoais, cálculo mental e calculadora, em contextos de educação financeira, entre outros.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 142",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 303"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      6
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-calculo-de-porcentagens-por-meio-de-estrategias-diversas-sem-fazer-uso-da-regra-de-tres",
+        "nome": "Cálculo de porcentagens por meio de estratégias diversas, sem fazer uso da “regra de três”"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA01",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 164",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-multiplos-e-divisores-de-um-numero-natural",
+        "nome": "Múltiplos e divisores de um número natural"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA02",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam porcentagens, como os que lidam com acréscimos e decréscimos simples, utilizando estratégias pessoais, cálculo mental e calculadora, no contexto de educação financeira, entre outros.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 165",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-calculo-de-porcentagens-e-de-acrescimos-e-decrescimos-simples",
+        "nome": "Cálculo de porcentagens e de acréscimos e decréscimos simples"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA03",
+    "etapa": "EF",
+    "texto": "Comparar e ordenar números inteiros em diferentes contextos, incluindo o histórico, associá-los a pontos da reta numérica e utilizá-los em situações que envolvam adição e subtração.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 166",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-numeros-inteiros-usos-historia-ordenacao-associacao-com-pontos-da-reta-numerica-e-operacoes",
+        "nome": "Números inteiros: usos, história, ordenação, associação com pontos da reta numérica e operações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA04",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam operações com números inteiros.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 167",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-numeros-inteiros-usos-historia-ordenacao-associacao-com-pontos-da-reta-numerica-e-operacoes",
+        "nome": "Números inteiros: usos, história, ordenação, associação com pontos da reta numérica e operações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA05",
+    "etapa": "EF",
+    "texto": "Resolver um mesmo problema utilizando diferentes algoritmos.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 168",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracao-e-seus-significados-como-parte-de-inteiros-resultado-da-divisao-razao-e-operador",
+        "nome": "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA06",
+    "etapa": "EF",
+    "texto": "Reconhecer que as resoluções de um grupo de problemas que têm a mesma estrutura podem ser obtidas utilizando os mesmos procedimentos.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 169",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracao-e-seus-significados-como-parte-de-inteiros-resultado-da-divisao-razao-e-operador",
+        "nome": "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA07",
+    "etapa": "EF",
+    "texto": "Representar por meio de um fluxograma os passos utilizados para resolver um grupo de problemas.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 170",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracao-e-seus-significados-como-parte-de-inteiros-resultado-da-divisao-razao-e-operador",
+        "nome": "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA08",
+    "etapa": "EF",
+    "texto": "Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 171",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracao-e-seus-significados-como-parte-de-inteiros-resultado-da-divisao-razao-e-operador",
+        "nome": "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA09",
+    "etapa": "EF",
+    "texto": "Utilizar, na resolução de problemas, a associação entre razão e fração, como a fração 2/3 para expressar a razão de duas partes de uma grandeza para três partes da mesma ou três partes de outra grandeza.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 172",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-fracao-e-seus-significados-como-parte-de-inteiros-resultado-da-divisao-razao-e-operador",
+        "nome": "Fração e seus significados: como parte de inteiros, resultado da divisão, razão e operador"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA10",
+    "etapa": "EF",
+    "texto": "Comparar e ordenar números racionais em diferentes contextos e associá-los a pontos da reta numérica.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 173",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-numeros-racionais-na-representacao-fracionaria-e-na-decimal-usos-ordenacao-e-associacao-com-pontos-da-reta-numerica-e-operacoes",
+        "nome": "Números racionais na representação fracionária e na decimal: usos, ordenação e associação com pontos da reta numérica e operações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA11",
+    "etapa": "EF",
+    "texto": "Compreender e utilizar a multiplicação e a divisão de números racionais, a relação entre elas e suas propriedades operatórias.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 174",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-numeros-racionais-na-representacao-fracionaria-e-na-decimal-usos-ordenacao-e-associacao-com-pontos-da-reta-numerica-e-operacoes",
+        "nome": "Números racionais na representação fracionária e na decimal: usos, ordenação e associação com pontos da reta numérica e operações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF07MA12",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam as operações com números racionais.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 175",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 309"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      7
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-numeros-racionais-na-representacao-fracionaria-e-na-decimal-usos-ordenacao-e-associacao-com-pontos-da-reta-numerica-e-operacoes",
+        "nome": "Números racionais na representação fracionária e na decimal: usos, ordenação e associação com pontos da reta numérica e operações"
+      }
+    ]
+  },
+  {
+    "codigo": "EF08MA01",
+    "etapa": "EF",
+    "texto": "Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 201",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 315"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      8
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-notacao-cientifica",
+        "nome": "Notação científica"
+      }
+    ]
+  },
+  {
+    "codigo": "EF08MA02",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 202",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 315"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      8
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-potenciacao-e-radiciacao",
+        "nome": "Potenciação e radiciação"
+      }
+    ]
+  },
+  {
+    "codigo": "EF08MA03",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas de contagem cuja resolução envolva a aplicação do princípio multiplicativo.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 203",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 315"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      8
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-o-principio-multiplicativo-da-contagem",
+        "nome": "O princípio multiplicativo da contagem"
+      }
+    ]
+  },
+  {
+    "codigo": "EF08MA04",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 204",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 315"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      8
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-porcentagens",
+        "nome": "Porcentagens"
+      }
+    ]
+  },
+  {
+    "codigo": "EF08MA05",
+    "etapa": "EF",
+    "texto": "Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 205",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 315"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      8
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-dizimas-periodicas-fracao-geratriz",
+        "nome": "Dízimas periódicas: fração geratriz"
+      }
+    ]
+  },
+  {
+    "codigo": "EF09MA01",
+    "etapa": "EF",
+    "texto": "Reconhecer que, uma vez fixada uma unidade de comprimento, existem segmentos de reta cujo comprimento não é expresso por número racional (como as medidas de diagonais de um polígono e alturas de um triângulo, quando se toma a medida de cada lado como unidade).",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 228",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 319"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      9
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-necessidade-dos-numeros-reais-para-medir-qualquer-segmento-de-reta",
+        "nome": "Necessidade dos números reais para medir qualquer segmento de reta"
+      },
+      {
+        "id": "ef-comp-ma-oc-numeros-irracionais-reconhecimento-e-localizacao-de-alguns-na-reta-numerica",
+        "nome": "Números irracionais: reconhecimento e localização de alguns na reta numérica"
+      }
+    ]
+  },
+  {
+    "codigo": "EF09MA02",
+    "etapa": "EF",
+    "texto": "Reconhecer um número irracional como um número real cuja representação decimal é infinita e não periódica, e estimar a localização de alguns deles na reta numérica.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 229",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 319"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      9
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-necessidade-dos-numeros-reais-para-medir-qualquer-segmento-de-reta",
+        "nome": "Necessidade dos números reais para medir qualquer segmento de reta"
+      },
+      {
+        "id": "ef-comp-ma-oc-numeros-irracionais-reconhecimento-e-localizacao-de-alguns-na-reta-numerica",
+        "nome": "Números irracionais: reconhecimento e localização de alguns na reta numérica"
+      }
+    ]
+  },
+  {
+    "codigo": "EF09MA03",
+    "etapa": "EF",
+    "texto": "Efetuar cálculos com números reais, inclusive potências com expoentes fracionários.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 230",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 319"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      9
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-potencias-com-expoentes-negativos-e-fracionarios",
+        "nome": "Potências com expoentes negativos e fracionários"
+      }
+    ]
+  },
+  {
+    "codigo": "EF09MA04",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas com números reais, inclusive em notação científica, envolvendo diferentes operações.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 231",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 319"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      9
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-numeros-reais-notacao-cientifica-e-problemas",
+        "nome": "Números reais: notação científica e problemas"
+      }
+    ]
+  },
+  {
+    "codigo": "EF09MA05",
+    "etapa": "EF",
+    "texto": "Resolver e elaborar problemas que envolvam porcentagens, com a ideia de aplicação de percentuais sucessivos e a determinação das taxas percentuais, preferencialmente com o uso de tecnologias digitais, no contexto da educação financeira.",
+    "vigencia": {
+      "status": "vigente",
+      "desde": "dados-2026.07",
+      "ate": null
+    },
+    "fonte": {
+      "documento": "bncc-2018",
+      "arquivo": "BNCC_Ensino Fundamental.xlsx",
+      "proveniencia": "exportada de downloadbncc.mec.gov.br em 23/06/2023",
+      "localizador": "aba Matemática, linha 232",
+      "localizador_pdf": "Base-Nacional-Comum-Curricular-BNCC.pdf, página PDF 319"
+    },
+    "componente": {
+      "id": "ef-comp-ma",
+      "nome": "Matemática"
+    },
+    "anos": [
+      9
+    ],
+    "organizacao": {
+      "tipo": "unidade_tematica",
+      "nomes": {
+        "unidadeTematica": "Números"
+      }
+    },
+    "objetosConhecimento": [
+      {
+        "id": "ef-comp-ma-oc-porcentagens-problemas-que-envolvem-calculo-de-percentuais-sucessivos",
+        "nome": "Porcentagens: problemas que envolvem cálculo de percentuais sucessivos"
+      }
+    ]
+  }
+]
